@@ -19,8 +19,8 @@ SAP_Login [SAP_Units]=Action2\Script.mts
 VA01 [SAP_Units]=Action1\Script.mts
 SAP_Logout [SAP_Units]=Action3\Script.mts
 Shipping_Login [Shipping_Units]=Action1\Script.mts
-Shipping_Logout [Shipping_Units]=Action4\Script.mts
 Shipping_OrderConfirmation [Shipping_Units]=Action3\Script.mts
+Shipping_Logout [Shipping_Units]=Action4\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
