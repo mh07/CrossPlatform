@@ -17,6 +17,10 @@ AOS_Login [AOS_Actions]=Action1\Script.mts
 AOS_ProductOrder [AOS_Actions]=Action2\Script.mts
 SAP_Login [SAP_Units]=Action2\Script.mts
 VA01 [SAP_Units]=Action1\Script.mts
+SAP_Logout [SAP_Units]=Action3\Script.mts
+Shipping_Login [Shipping_Units]=Action1\Script.mts
+Shipping_Logout [Shipping_Units]=Action4\Script.mts
+Shipping_OrderConfirmation [Shipping_Units]=Action3\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -67,3 +71,9 @@ Action1\ObjectRepository.bdb=
 Action2\Script.mts=
 Action2\Resource.mtr=
 Action2\ObjectRepository.bdb=
+Action3\Script.mts=
+Action3\Resource.mtr=
+Action3\ObjectRepository.bdb=
+Action4\Script.mts=
+Action4\Resource.mtr=
+Action4\ObjectRepository.bdb=
